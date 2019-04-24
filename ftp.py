@@ -1,6 +1,6 @@
 #
 #  Copyright (C) 2019 by
-#  Divyansh Gupta, Harry Karwasra, Nandana Varshney, Nikhil Ramakrishnan
+#  Nikhil Ramakrishnan
 #
 #  This project is licensed under the MIT License
 
